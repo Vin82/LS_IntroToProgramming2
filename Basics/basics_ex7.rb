@@ -1,0 +1,1 @@
+# Ruby expected a ) to end the expression when a right } was needed. Most likely when creating a hash.

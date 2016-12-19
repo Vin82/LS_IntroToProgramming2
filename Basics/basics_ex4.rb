@@ -1,0 +1,5 @@
+movie_year_array = [1999, 1999, 1994, 2005]
+puts movie_year_array[0]
+puts movie_year_array[1]
+puts movie_year_array[2]
+puts movie_year_array[3]
