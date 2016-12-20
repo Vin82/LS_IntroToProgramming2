@@ -1,3 +1,5 @@
+# These hashes are the same!
+
 hash1 = {shoes: "nike", "hat" => "adidas", :hoodie => true}
 hash2 = {"hat" => "adidas", :shoes => "nike", hoodie: true}
 
